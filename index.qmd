@@ -9,7 +9,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:[biy0001@auburn.edu]"
+      href: "mailto:biy0001@auburn.edu"
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/bipinyadu"
@@ -23,16 +23,18 @@ about:
 
 ## About
 
-I am a doctoral student in Department of Supply Chain Management at Auburn University.
-My research focuses on Healthcare Supply Chain and Policy Impacts on Supply Chain Networks.
+I am a doctoral student in the Department of Supply Chain Management at Auburn University.
+My research focuses on healthcare supply chains and the impact of policy on supply chain networks.
 <!--[One or two sentences on the big question your work addresses.]-->
 
 <!--I am advised by [[Advisor Name]](https://advisor-page-url). My committee members include
 [[Committee Member 1]](https://member1-url), [[Committee Member 2]](https://member2-url),
 and [[Committee Member 3]](https://member3-url).-->
 
-Before joining the PhD program, I worked as a Research Associate at Indian Institute of Management Ahmedabad (https://iima.ac.in),
-where I worked on several projects related to Supply Chain Optimization, Discrete Event Simulation, Warehouse Design and EdTech Service Optimization. I also worked as a LEAN Consultant for over two years before joining IIMA for research.
+Before joining the Ph.D. program, I worked as a Research Associate at the [Indian Institute of Management Ahmedabad](https://iima.ac.in),
+where I worked on projects in supply chain optimization, discrete event simulation, warehouse design and EdTech service optimization.
+Before that, I spent over two years as a Lean consultant.
+
 <!--
 ## Upcoming Talks
 
@@ -49,11 +51,9 @@ where I worked on several projects related to Supply Chain Optimization, Discret
 <!--
 ## Research
 
-<!-- Copy one ::: {.paper} ... ::: block per paper -->
-
 ::: {.paper}
 **[Paper Title 1]** \
-**[Your Name]**, [Co-author Name], & [Co-author Name] \
+**Bipin Yadu**, [Co-author Name], & [Co-author Name] \
 *[Status, e.g. Revise & Resubmit at Journal Name]* \
 <span class="note">[Optional: Funded by Grant Name / In collaboration with Organization]</span>
 
@@ -66,7 +66,7 @@ where I worked on several projects related to Supply Chain Optimization, Discret
 
 ::: {.paper}
 **[Paper Title 2]** \
-[Co-author Name] & **[Your Name]** \
+[Co-author Name] & **Bipin Yadu** \
 *[Status, e.g. Under Review at Journal Name]*
 
 <details><summary>See Abstract</summary>
@@ -78,7 +78,7 @@ where I worked on several projects related to Supply Chain Optimization, Discret
 
 ::: {.paper}
 **[Project Title 3]** \
-**[Your Name]** \
+**Bipin Yadu** \
 *[Status, e.g. Data Collection in Progress]* \
 <span class="note">[Optional: Supported by Fellowship/Grant Name]</span>
 
@@ -91,7 +91,7 @@ where I worked on several projects related to Supply Chain Optimization, Discret
 
 ::: {.paper}
 **[Book Chapter Title 4]** \
-**[Your Name]** & [Co-author Name] \
+**Bipin Yadu** & [Co-author Name] \
 *[Status, e.g. In Book Title, edited by Editor Name. Publisher, Year.]*
 
 <details><summary>See Abstract</summary>
