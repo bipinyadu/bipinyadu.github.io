@@ -33,7 +33,7 @@ and [[Committee Member 3]](https://member3-url).-->
 
 Before joining the Ph.D. program, I worked as a Research Associate at the [Indian Institute of Management Ahmedabad](https://iima.ac.in),
 where I worked on projects in supply chain optimization, discrete event simulation, warehouse design and EdTech service optimization.
-Before that, I spent over two years as a Lean consultant.
+Before that, I spent over two years as a Lean consultant working on multiple continuous improvement projects across India.
 
 <!--
 ## Upcoming Talks
