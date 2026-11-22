@@ -1,0 +1,117 @@
+---
+title: "[Your Name]"
+subtitle: "[Your Title, e.g. Ph.D. Candidate] | [Your Institution]"
+image: profile.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 11em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:[you@example.edu]"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/[your-profile]"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=[XXXX]"
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.pdf
+---
+
+## About
+
+I am a [Your Title] in [Your Department/Program] at [Your Institution].
+My research focuses on **[Research Area 1]**, **[Research Area 2]**, and **[Research Area 3]**.
+[One or two sentences on the big question your work addresses.]
+
+I am advised by [[Advisor Name]](https://advisor-page-url). My committee members include
+[[Committee Member 1]](https://member1-url), [[Committee Member 2]](https://member2-url),
+and [[Committee Member 3]](https://member3-url).
+
+Before [Your Program], I worked as a [Previous Role] at [[Previous Employer]](https://previous-employer-url),
+where I [brief description of what you did]. I received my [Degree] from [University].
+
+## Upcoming Talks
+
+- **[Month Day, Year]** — "[Talk Title 1]" \
+  [Time, e.g. 10:00–11:30 AM] · [Conference Name] · [City, State]
+
+- **[Month Day, Year]** — "[Talk Title 2]" \
+  [Time] · [Conference Name] · [City, State]
+
+- **[Month Day, Year]** — "[Talk Title 3]" \
+  [Time] · [Conference Name] · [City, State]
+
+## Research
+
+<!-- Copy one ::: {.paper} ... ::: block per paper -->
+
+::: {.paper}
+**[Paper Title 1]** \
+**[Your Name]**, [Co-author Name], & [Co-author Name] \
+*[Status, e.g. Revise & Resubmit at Journal Name]* \
+<span class="note">[Optional: Funded by Grant Name / In collaboration with Organization]</span>
+
+<details><summary>See Abstract</summary>
+
+[Paste the abstract for Paper 1 here.]
+
+</details>
+:::
+
+::: {.paper}
+**[Paper Title 2]** \
+[Co-author Name] & **[Your Name]** \
+*[Status, e.g. Under Review at Journal Name]*
+
+<details><summary>See Abstract</summary>
+
+[Paste the abstract for Paper 2 here.]
+
+</details>
+:::
+
+::: {.paper}
+**[Project Title 3]** \
+**[Your Name]** \
+*[Status, e.g. Data Collection in Progress]* \
+<span class="note">[Optional: Supported by Fellowship/Grant Name]</span>
+
+<details><summary>See Abstract</summary>
+
+[Paste the abstract or project summary here.]
+
+</details>
+:::
+
+::: {.paper}
+**[Book Chapter Title 4]** \
+**[Your Name]** & [Co-author Name] \
+*[Status, e.g. In Book Title, edited by Editor Name. Publisher, Year.]*
+
+<details><summary>See Abstract</summary>
+
+[Paste the abstract for the chapter here.]
+
+</details>
+:::
+
+## Teaching
+
+### Experience
+
+**Instructor of Record** — [Course Code]: [Course Name] \
+[Institution] · [Semester Year]
+
+**Teaching Assistant** — [Course Code]: [Course Name] \
+[Institution] · [Semester Year] · Teaching evaluation: [X.X/5.0]
+
+**Teaching Assistant** — [Course Code]: [Course Name] \
+[Institution] · [Semester Year]
+
+### Interests
+
+[Teaching Interest 1], [Teaching Interest 2], [Teaching Interest 3], [Teaching Interest 4]

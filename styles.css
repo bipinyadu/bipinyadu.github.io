@@ -1,0 +1,46 @@
+/* Change this color to your school/brand color */
+:root { --accent: #18453b; }
+
+a { color: var(--accent); }
+
+/* Header: photo, name, title, then contact buttons right under them */
+.quarto-about-jolla { display: flex; flex-direction: column; align-items: center; }
+.quarto-about-jolla .about-image { order: 1; }
+.quarto-about-jolla .quarto-title-block { order: 2; }
+.quarto-about-jolla .about-links { order: 3; margin-top: 0.5rem; }
+.quarto-about-jolla .about-sep { display: none; }
+.quarto-about-jolla .content {
+  order: 4;
+  width: 100%;
+  text-align: left;
+  margin-top: 1.5rem;
+}
+.quarto-about-jolla .content ul { padding-left: 1.2rem; }
+
+h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 4px;
+  margin-top: 2.2rem;
+}
+
+/* Research entries */
+.paper {
+  padding: 12px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.paper:last-child { border-bottom: none; }
+.note { color: #666; font-size: 0.9em; }
+
+/* "See Abstract" toggles */
+details { margin-top: 6px; }
+summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-size: 0.93em;
+}
+details[open] > *:not(summary) {
+  background: #f7f7f7;
+  border-left: 3px solid var(--accent);
+  padding: 10px 14px;
+  margin-top: 8px;
+}

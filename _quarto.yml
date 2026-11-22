@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - cv.pdf
+
+website:
+  title: "[Your Name]"
+  site-url: "https://bipinyadu.github.io"
+  page-footer:
+    center: "© [Year] [Your Name] · Last updated [Month Year]"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: article
