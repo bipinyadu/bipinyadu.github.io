@@ -1,6 +1,6 @@
 ---
-title: "[Your Name]"
-subtitle: "[Your Title, e.g. Ph.D. Candidate] | [Your Institution]"
+title: "Bipin Yadu"
+subtitle: "Ph.D. Student, Auburn University"
 image: profile.jpg
 about:
   template: jolla
@@ -9,13 +9,13 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:[you@example.edu]"
+      href: "mailto:[biy0001@auburn.edu]"
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/[your-profile]"
-    - icon: mortarboard
-      text: Google Scholar
-      href: "https://scholar.google.com/citations?user=[XXXX]"
+      href: "https://www.linkedin.com/in/bipinyadu"
+    #- icon: mortarboard
+    #  text: Google Scholar
+    #  href: "https://scholar.google.com/citations?user=[XXXX]"
     - icon: file-earmark-pdf
       text: CV
       href: cv.pdf
@@ -23,17 +23,17 @@ about:
 
 ## About
 
-I am a [Your Title] in [Your Department/Program] at [Your Institution].
-My research focuses on **[Research Area 1]**, **[Research Area 2]**, and **[Research Area 3]**.
-[One or two sentences on the big question your work addresses.]
+I am a doctoral student in Department of Supply Chain Management at Auburn University.
+My research focuses on Healthcare Supply Chain and Policy Impacts on Supply Chain Networks.
+<!--[One or two sentences on the big question your work addresses.]-->
 
-I am advised by [[Advisor Name]](https://advisor-page-url). My committee members include
+<!--I am advised by [[Advisor Name]](https://advisor-page-url). My committee members include
 [[Committee Member 1]](https://member1-url), [[Committee Member 2]](https://member2-url),
-and [[Committee Member 3]](https://member3-url).
+and [[Committee Member 3]](https://member3-url).-->
 
-Before [Your Program], I worked as a [Previous Role] at [[Previous Employer]](https://previous-employer-url),
-where I [brief description of what you did]. I received my [Degree] from [University].
-
+Before joining the PhD program, I worked as a Research Associate at Indian Institute of Management Ahmedabad (https://iima.ac.in),
+where I worked on several projects related to Supply Chain Optimization, Discrete Event Simulation, Warehouse Design and EdTech Service Optimization. I also worked as a LEAN Consultant for over two years before joining IIMA for research.
+<!--
 ## Upcoming Talks
 
 - **[Month Day, Year]** — "[Talk Title 1]" \
@@ -44,7 +44,9 @@ where I [brief description of what you did]. I received my [Degree] from [Univer
 
 - **[Month Day, Year]** — "[Talk Title 3]" \
   [Time] · [Conference Name] · [City, State]
+-->
 
+<!--
 ## Research
 
 <!-- Copy one ::: {.paper} ... ::: block per paper -->
@@ -115,3 +117,4 @@ where I [brief description of what you did]. I received my [Degree] from [Univer
 ### Interests
 
 [Teaching Interest 1], [Teaching Interest 2], [Teaching Interest 3], [Teaching Interest 4]
+-->
